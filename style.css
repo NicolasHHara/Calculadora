@@ -25,6 +25,7 @@ h1{
     margin-top: 10%;
     color: black;
     font-size: 30px;
+    display: block;
 }
 table{
     width: 100%;
