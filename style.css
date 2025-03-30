@@ -1,0 +1,75 @@
+
+h1{
+    border-bottom: 1px solid black;
+    text-align: center;
+}
+.container{
+    border: 2px solid black;
+    width: 300px;
+    border-radius: 15px;
+    height: 470px;
+    margin-left: 43%;
+    background-color: violet;
+    box-shadow: 5px 10px hsl(0, 1%, 39%);
+    margin-top: 30vh;
+}
+.resultado{
+    border: 1px solid black;
+    border-radius: 4px;
+    width: 80%;
+    margin-left: 10%;
+    height: 75px;
+    text-align: center;
+    padding-top: 40px;
+    background-color: aliceblue;
+    margin-top: 10%;
+    color: black;
+    font-size: 30px;
+}
+table{
+    width: 100%;
+}
+.row1{
+    margin-top: 13px;
+    margin-left: 6%;
+    width: 90%;
+    display: block;
+    float: left;
+}
+.row2{
+    margin-left: 6%;
+    width: 90%;
+    display: block;
+}
+.row3{
+    margin-left: 6%;
+    width: 90%;
+    display: block;
+}
+.row4{
+    margin-left: 6%;
+    width: 90%;
+    display: block;
+}
+.botao{
+    display: block;
+    float: left;
+    width: 60px;
+    height: 60px;
+    background-color: grey;
+    border-radius: 8px;
+    color: aliceblue;
+    font-size: 28px;
+    cursor: pointer;
+}
+.botaovermelho{
+    display: block;
+    float: left;
+    width: 60px;
+    height: 60px;
+    background-color: crimson;
+    border-radius: 8px;
+    color: aliceblue;
+    font-size: 28px;
+    cursor: pointer;
+}
